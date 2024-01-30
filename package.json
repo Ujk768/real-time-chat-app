@@ -10,6 +10,8 @@
   "author": "Ujk768",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^20.11.10",
+    "socket.io": "^4.7.4",
     "typescript": "^5.3.3"
   }
 }
